@@ -61,11 +61,9 @@ To ensure reproducibility:
 
 A typical execution order is:
 
-1. Run `STEP_A_nominal_MOO.m`
-2. Run `STEP_B_variability.m`
-3. Run `STEP_C_robustness.m`
-
-Make sure that all required functions are in the MATLAB path before execution.
+1. Run `STEP_A.m`
+2. Run `STEP_B.m`
+3. Run `STEP_C.m`
 
 ## Inputs and outputs
 
