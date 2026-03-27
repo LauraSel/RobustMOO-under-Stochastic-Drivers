@@ -2,7 +2,7 @@
 Robust Multi-Objective Optimization under Stochastic Drivers for Environmental Decision Support
 This repository contains the MATLAB code used to generate the results reported in the paper:
 
-**Robust Multi-Objective Optimization under Stochastic Drivers for Environmental Decision Support**
+**A Simulation-Optimization workflow for Robust Environmental Decision Support under Stochastic Drivers**
 
 ## Overview
 
