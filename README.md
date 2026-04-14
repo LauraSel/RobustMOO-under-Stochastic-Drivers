@@ -2,7 +2,7 @@
 
 This repository contains the MATLAB code used to generate the results reported in the paper:
 
-**Robust Decision Support for WEF Nexus Systems under Stochastic Drivers: A Simulation-Optimization Workflow**
+**Robust Multi-Objective Decision Support for Water Resources Management under Stochastic Drivers**
 
 ## Overview
 
