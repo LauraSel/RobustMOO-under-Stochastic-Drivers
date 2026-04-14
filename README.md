@@ -6,7 +6,7 @@ This repository contains the MATLAB code used to generate the results reported i
 
 ## Overview
 
-The repository implements a simulation-optimization workflow for uncertainty-aware environmental decision support. The workflow combines:
+The repository implements a simulation-optimization workflow for water researches management decision support under uncertainty. The workflow combines:
 
 - a deterministic stock-and-flow model (SFM),
 - nominal multi-objective optimization,
